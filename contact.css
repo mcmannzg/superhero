@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family: fantasy;
+    font-style: oblique;
+    font-size: 64px;
+}
+body {
+    background-image: url("http://www.wallpaperfoy.com/wp-content/uploads/2015/12/1920x1080-wallpaper-space-Backgrounds-G88.jpg")
+}
+.email {
+    color: red;
+    font-size: 24px;
+    font-family: fantasy;
+    font-style: oblique;
+    float: left;
+    padding-top: 200px;
+    background-image: url("http://wallpaperswide.com/download/superman_in_batman_v_superman_dawn_of_justice-wallpaper-640x480.jpg");
+    width: 500px;
+    height: 250px;
+    text-align: center;
+}
+.fb {
+    color: red;
+    font-size: 24px;
+    font-family: fantasy;
+    font-style: oblique;
+    float: right;
+    padding-top: 200px;
+    background-image: url("http://wallpaperswide.com/download/man_of_steel_2013_superman-wallpaper-640x480.jpg");
+    height: 250px;
+    width: 500px;
+}
+a:hover {
+    font-size: 30px;
+}

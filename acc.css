@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-image: url("http://www.wallpaperfoy.com/wp-content/uploads/2015/12/1920x1080-wallpaper-space-Backgrounds-G88.jpg");
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: red;
+    font-family: fantasy;
+    font-style: oblique;
+    font-size: 64px;
+}
+p {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+    font-family: fantasy;
+    font-style: oblique;
+    background-image: url("http://img05.deviantart.net/7063/i/2011/079/1/a/superman_vs_lex_luthor_by_kalnobe-d3c3ajs.jpg");
+    height: 400px;
+    width: 900px;
+    padding-top: 100px;
+    position: absolute;
+}
